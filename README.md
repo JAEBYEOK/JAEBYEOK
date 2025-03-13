@@ -29,5 +29,6 @@
 - 2024 혁신교과 성과 발표대회 대상 수상[2024.12.12]
 
 ## Stack💻
-<img alt="Python" src ="https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
 
