@@ -1,13 +1,12 @@
-## Hi there 👋
-## Education 
+## ✍Education 
 - Hannam University
 - Qualcomm AI Camp at UCSD
 
-## Contact
+## 📱Contact
 - email : cjd06222@naver.com
 - Instagram : ash_h_316
 
-## Projects
+## 🎱Projects
 - Kaist smartfarm 개발 프로젝트 [2023.12 ~ 2024.02]
 - Qualcomm AI Development Project [2025.01 ~ 2025.02]
 - 한국 ITS 추계 학술대회 학부생 세션 논문 발표 대회 [2024.10.28]
@@ -19,7 +18,7 @@
 - 2024 DB 이노베이션 챌린지 공모전 [2024.08 ~ 2024.09]
 - 한남대학교 서비스러닝센터 SL 코너스톤 프로젝트 [2024.10 ~ 2024.12]
 
-## Awards
+## 🏆Awards
 - 한국ITS학회 2024년도 추계학술대회 학부생 논문발표 부분 최우수상 수상[2024.10.29]
 - 한국ITS학회 2024년도 학회장상 수상[2024.12.26]
 - 제2회 경기도자율주행센터 데이터 활용 경진대회 경기도 자율주행센터장상 수상(우수상)[2024.12.13]
@@ -31,3 +30,4 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
