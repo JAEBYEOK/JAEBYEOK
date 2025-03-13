@@ -35,3 +35,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
 
+
+
+![FOOTER](https://camo.githubusercontent.com/e60c29c05c39fa8272a9cd0cbc2638c61eda1581c1f8784cdd2e7ecf86baa855/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d74696d654772616469656e74266865696768743d3230302673656374696f6e3d666f6f746572)
