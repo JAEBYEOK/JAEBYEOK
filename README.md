@@ -27,7 +27,6 @@
 - 한남대학교 서비스러닝센터 SL코너스톤 프로젝트 총장상 수상[2025.02.06]
 - 2024학년도 CTL 프레젠테이션 경진대회 우수상 수상[2024.12.13]
 - 2024 혁신교과 성과 발표대회 대상 수상[2024.12.12]
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
+              
