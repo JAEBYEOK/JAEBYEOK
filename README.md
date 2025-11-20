@@ -1,5 +1,13 @@
 ![WELCOME](https://camo.githubusercontent.com/8df7b7aa66fc7b9c57bc9bd00ddd99cc585c755cc09f301486c27145a62e176c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726746578743d57454c434f4d4526636f6c6f723d74696d654772616469656e74266865696768743d3330302673656374696f6e3d68656164657226666f6e7453697a653d373226616e696d6174696f6e3d66616465496e)
 
+## Entrepreneurship 🚀
+### VISTA - AI Travel Navigation Service
+- **Description**: View-optimized Intelligent Scenic Travel Assistant
+- **Period**: 2024.XX ~ Present
+- **Role**: Founder & Lead Developer (Faculty Startup at Hannam University)
+- **Tech Stack**: Python, Machine Learning, A* Algorithm, Multi-utility Optimization
+- **Target**: Jeju Island Tourism Market
+- **Status**: Patent filing scheduled (Dec 2024), Capital Factory Accelerator Alumni
 
 ## Education✍ 
 - Hannam University
@@ -22,6 +30,8 @@
 - 한남대학교 서비스러닝센터 SL 코너스톤 프로젝트 [2024.10 ~ 2024.12]
 
 ## Awards🏆
+- 2025 국토교통 서비스 아이디어 모델 발굴 경연 한국교통연구원장상[2025.12.03]
+- 2025 첨단소재나노융합 창업집중훈련캠프 혁신융합대학사업단장상 수상[2025.11.16]
 - 한국ITS학회 2024년도 추계학술대회 학부생 논문발표 부분 최우수상 수상[2024.10.29]
 - 한국ITS학회 2024년도 학회장상 수상[2024.12.26]
 - 제2회 경기도자율주행센터 데이터 활용 경진대회 경기도 자율주행센터장상 수상(우수상)[2024.12.13]
