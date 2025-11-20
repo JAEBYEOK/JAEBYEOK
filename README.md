@@ -3,11 +3,9 @@
 ## Entrepreneurship 🚀
 ### VISTA - AI Travel Navigation Service
 - **Description**: View-optimized Intelligent Scenic Travel Assistant
-- **Period**: 2024.XX ~ Present
+- **Period**: 2025.03 ~ Present
 - **Role**: Founder & Lead Developer (Faculty Startup at Hannam University)
 - **Tech Stack**: Python, Machine Learning, A* Algorithm, Multi-utility Optimization
-- **Target**: Jeju Island Tourism Market
-- **Status**: Patent filing scheduled (Dec 2024), Capital Factory Accelerator Alumni
 
 ## Education✍ 
 - Hannam University
