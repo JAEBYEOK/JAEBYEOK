@@ -5,7 +5,7 @@
 - Qualcomm AI Camp at UCSD
 
 ## Contact
-- email : cjd06222@gmail.com
+- email : cjd06222@kaist.ac.kr
 - Instagram : ash_h_316
 
 ## Projects
